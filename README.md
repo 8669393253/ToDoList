@@ -13,7 +13,7 @@ This is a simple to-do list web application built using HTML, CSS, and JavaScrip
 
 ## Usage
 
-1. Open the `html` file in your web browser.
+1. Open the `ToDoList.html` file in your web browser.
 2. Enter a task in the input field and click the "Add" button to add it to the list.
 3. To edit a task, click the "Edit" button next to the task, enter the new text in the prompt, and click OK.
 4. To delete a task, click the "Delete" button next to the task.
@@ -21,7 +21,7 @@ This is a simple to-do list web application built using HTML, CSS, and JavaScrip
 
 ## File Structure
 
-- `index.html`: Contains the HTML structure of the to-do list.
+- `ToDoList.html`: Contains the HTML structure of the to-do list.
 - `ToDoList.css`: Contains the CSS styling for the to-do list.
 - `ToDoList.js`: Contains the JavaScript functionality for adding, editing, deleting, and marking tasks.
 
